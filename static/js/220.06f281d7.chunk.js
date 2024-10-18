@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[220],{4220:(e,s,n)=>{n.r(s),n.d(s,{default:()=>d});n(5043);var t=n(579);const d=()=>(0,t.jsx)("div",{className:"dot-spinner",children:Array.from({length:8},((e,s)=>(0,t.jsx)("div",{className:`dot-spinner__dot dot-spinner__dot--${s+1}`},s)))})}}]);
+//# sourceMappingURL=220.06f281d7.chunk.js.map
